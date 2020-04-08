@@ -3,20 +3,20 @@
 ###############################################################################
 
 # BUTTONS
-buttons.status.font = Monaco,plain,12
+buttons.status.font = SansSerif,plain,12
 buttons.bgcolor = #191A22
 buttons.status.color = #F8F8F2
 
 # TABS
 # settings for the tabs at the top
 # (tab images are stored in the lib/theme folder)
-header.text.font = Monaco,plain,12
+header.text.font = SansSerif,plain,12
 header.bgcolor = #191A22
 header.text.selected.color = #F8F8F2
 header.text.unselected.color = #6272A4
 
 # STATUS
-status.font = Monaco,plain,12
+status.font = SansSerif,plain,12
 status.notice.fgcolor = #F8F8F2
 status.notice.bgcolor = #424450
 status.error.fgcolor = #424450
@@ -25,15 +25,15 @@ status.edit.fgcolor = #424450
 status.edit.bgcolor = #FFB86C
 
 # CONSOLE
-console.font = Monaco,plain,12
-console.font.macosx = Monaco,plain,12
+console.font = Consolas,plain,11
+console.font.macosx = Monaco,plain,10
 console.color = #191A21
 console.output.color = #F8F8F2
 console.error.color = #FF5555
 
 # LINESTATUS
 # editor line number status bar at the bottom of the screen
-linestatus.font	= Monaco,plain,10
+linestatus.font	= Consolas,plain,10
 linestatus.height  = 20
 linestatus.color = #F8F8F2
 linestatus.bgcolor = #424450
@@ -57,7 +57,7 @@ editor.fgcolor = #F8F8F2
 editor.bgcolor = #282A36
 
 # FONTS
-editor.font = Monaco,plain,12
+editor.font = Consolas,plain,12
 editor.font.macosx = Monaco,plain,12
 
 # SELECTION
